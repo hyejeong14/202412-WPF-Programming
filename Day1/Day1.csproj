@@ -1,0 +1,68 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="LINQ1.cs" />
+    <Compile Remove="LINQ2.cs" />
+    <Compile Remove="LINQ3.cs" />
+    <Compile Remove="LINQ4.cs" />
+    <Compile Remove="Nullable.cs" />
+    <Compile Remove="Puzzle1.cs" />
+    <Compile Remove="Puzzle2.cs" />
+    <Compile Remove="Puzzle3.cs" />
+    <Compile Remove="Puzzle4.cs" />
+    <Compile Remove="Step01.cs" />
+    <Compile Remove="Step02.cs" />
+    <Compile Remove="Step03.cs" />
+    <Compile Remove="Step04.cs" />
+    <Compile Remove="Step05-1.cs" />
+    <Compile Remove="Step05-2.cs" />
+    <Compile Remove="Step05.cs" />
+    <Compile Remove="Step06.cs" />
+    <Compile Remove="Step07.cs" />
+    <Compile Remove="Step08-1.cs" />
+    <Compile Remove="Step08-2.cs" />
+    <Compile Remove="Step08.cs" />
+    <Compile Remove="Step09.cs" />
+    <Compile Remove="Step10-1.cs" />
+    <Compile Remove="Step10.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="LINQ1.cs" />
+    <None Include="LINQ2.cs" />
+    <None Include="LINQ3.cs" />
+    <None Include="LINQ4.cs" />
+    <None Include="Nullable.cs" />
+    <None Include="Puzzle1.cs" />
+    <None Include="Puzzle2.cs" />
+    <None Include="Puzzle3.cs" />
+    <None Include="Puzzle4.cs" />
+    <None Include="Step01.cs" />
+    <None Include="Step02.cs" />
+    <None Include="Step03.cs" />
+    <None Include="Step04.cs" />
+    <None Include="Step05-1.cs" />
+    <None Include="Step05-2.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Step05.cs" />
+    <None Include="Step06.cs" />
+    <None Include="Step07.cs" />
+    <None Include="Step08-1.cs" />
+    <None Include="Step08-2.cs" />
+    <None Include="Step08.cs" />
+    <None Include="Step09.cs" />
+    <None Include="Step10-1.cs" />
+    <None Include="Step10.cs" />
+  </ItemGroup>
+
+</Project>

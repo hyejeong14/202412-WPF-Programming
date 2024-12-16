@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\바탕 화면\202412-WPF-Programming\Day1\obj\Debug\net8.0-windows\Day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\바탕 화면\202412-WPF-Programming\Day1\obj\Debug\net8.0-windows\Day1.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\바탕 화면\202412-WPF-Programming\Day1\obj\Debug\net8.0-windows\Day1.AssemblyInfo.cs
+C:\Users\user\OneDrive\바탕 화면\202412-WPF-Programming\Day1\obj\Debug\net8.0-windows\Day1.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\바탕 화면\202412-WPF-Programming\Day1\obj\Debug\net8.0-windows\Day1.sourcelink.json
+C:\Users\user\OneDrive\바탕 화면\202412-WPF-Programming\Day1\bin\Debug\net8.0-windows\Day1.exe
+C:\Users\user\OneDrive\바탕 화면\202412-WPF-Programming\Day1\bin\Debug\net8.0-windows\Day1.deps.json
+C:\Users\user\OneDrive\바탕 화면\202412-WPF-Programming\Day1\bin\Debug\net8.0-windows\Day1.runtimeconfig.json
+C:\Users\user\OneDrive\바탕 화면\202412-WPF-Programming\Day1\bin\Debug\net8.0-windows\Day1.dll
+C:\Users\user\OneDrive\바탕 화면\202412-WPF-Programming\Day1\bin\Debug\net8.0-windows\Day1.pdb
+C:\Users\user\OneDrive\바탕 화면\202412-WPF-Programming\Day1\obj\Debug\net8.0-windows\Day1.dll
+C:\Users\user\OneDrive\바탕 화면\202412-WPF-Programming\Day1\obj\Debug\net8.0-windows\refint\Day1.dll
+C:\Users\user\OneDrive\바탕 화면\202412-WPF-Programming\Day1\obj\Debug\net8.0-windows\Day1.pdb
+C:\Users\user\OneDrive\바탕 화면\202412-WPF-Programming\Day1\obj\Debug\net8.0-windows\Day1.genruntimeconfig.cache
+C:\Users\user\OneDrive\바탕 화면\202412-WPF-Programming\Day1\obj\Debug\net8.0-windows\ref\Day1.dll

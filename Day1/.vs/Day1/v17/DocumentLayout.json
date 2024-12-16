@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day1\\ex5.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|solutionrelative:ex5.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day1\\step11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|solutionrelative:step11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day1\\nullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|solutionrelative:nullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day1\\day1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|solutionrelative:day1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day1\\linq4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|solutionrelative:linq4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day1\\linq3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|solutionrelative:linq3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day1\\puzzle1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|solutionrelative:puzzle1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day1\\linq2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|solutionrelative:linq2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day1\\linq1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|solutionrelative:linq1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day1\\puzzle4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|solutionrelative:puzzle4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day1\\puzzle5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|solutionrelative:puzzle5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day1\\puzzle3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|solutionrelative:puzzle3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day1\\puzzle2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|solutionrelative:puzzle2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day1\\step03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|solutionrelative:step03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day1\\step05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|solutionrelative:step05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day1\\step02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|solutionrelative:step02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day1\\step10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|solutionrelative:step10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day1\\step09.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|solutionrelative:step09.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day1\\step07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|solutionrelative:step07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day1\\step08-2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|solutionrelative:step08-2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day1\\step08-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|solutionrelative:step08-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day1\\step08.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|solutionrelative:step08.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day1\\step06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|solutionrelative:step06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day1\\step01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|solutionrelative:step01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day1\\step05-2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|solutionrelative:step05-2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day1\\step05-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|solutionrelative:step05-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day1\\step04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD26C515-8286-400B-8E80-3FA4476BD9B4}|Day1.csproj|solutionrelative:step04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex5.txt",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\ex5.txt",
+              "RelativeDocumentMoniker": "ex5.txt",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\ex5.txt",
+              "RelativeToolTip": "ex5.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-16T08:10:10.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Step11.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Step11.cs",
+              "RelativeDocumentMoniker": "Step11.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Step11.cs",
+              "RelativeToolTip": "Step11.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T07:36:24.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nullable.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Nullable.cs",
+              "RelativeDocumentMoniker": "Nullable.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Nullable.cs",
+              "RelativeToolTip": "Nullable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T07:28:04.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LINQ4.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\LINQ4.cs",
+              "RelativeDocumentMoniker": "LINQ4.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\LINQ4.cs",
+              "RelativeToolTip": "LINQ4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T07:19:49.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LINQ3.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\LINQ3.cs",
+              "RelativeDocumentMoniker": "LINQ3.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\LINQ3.cs",
+              "RelativeToolTip": "LINQ3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T07:13:25.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LINQ2.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\LINQ2.cs",
+              "RelativeDocumentMoniker": "LINQ2.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\LINQ2.cs",
+              "RelativeToolTip": "LINQ2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T07:10:00.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LINQ1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\LINQ1.cs",
+              "RelativeDocumentMoniker": "LINQ1.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\LINQ1.cs",
+              "RelativeToolTip": "LINQ1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T07:03:28.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Puzzle5.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Puzzle5.cs",
+              "RelativeDocumentMoniker": "Puzzle5.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Puzzle5.cs",
+              "RelativeToolTip": "Puzzle5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T05:35:20.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Puzzle4.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Puzzle4.cs",
+              "RelativeDocumentMoniker": "Puzzle4.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Puzzle4.cs",
+              "RelativeToolTip": "Puzzle4.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T05:21:37.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Puzzle3.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Puzzle3.cs",
+              "RelativeDocumentMoniker": "Puzzle3.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Puzzle3.cs",
+              "RelativeToolTip": "Puzzle3.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T05:11:33.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Puzzle1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Puzzle1.cs",
+              "RelativeDocumentMoniker": "Puzzle1.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Puzzle1.cs",
+              "RelativeToolTip": "Puzzle1.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T05:02:53.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Puzzle2.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Puzzle2.cs",
+              "RelativeDocumentMoniker": "Puzzle2.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Puzzle2.cs",
+              "RelativeToolTip": "Puzzle2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T04:37:22.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Step10.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Step10.cs",
+              "RelativeDocumentMoniker": "Step10.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Step10.cs",
+              "RelativeToolTip": "Step10.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T03:44:15.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Step09.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Step09.cs",
+              "RelativeDocumentMoniker": "Step09.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Step09.cs",
+              "RelativeToolTip": "Step09.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwCcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T03:32:00.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Step08-2.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Step08-2.cs",
+              "RelativeDocumentMoniker": "Step08-2.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Step08-2.cs",
+              "RelativeToolTip": "Step08-2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T03:23:14.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Step08-1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Step08-1.cs",
+              "RelativeDocumentMoniker": "Step08-1.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Step08-1.cs",
+              "RelativeToolTip": "Step08-1.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T03:13:53.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Step08.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Step08.cs",
+              "RelativeDocumentMoniker": "Step08.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Step08.cs",
+              "RelativeToolTip": "Step08.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T01:49:16.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Step07.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Step07.cs",
+              "RelativeDocumentMoniker": "Step07.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Step07.cs",
+              "RelativeToolTip": "Step07.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwDkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T01:42:26.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Step06.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Step06.cs",
+              "RelativeDocumentMoniker": "Step06.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Step06.cs",
+              "RelativeToolTip": "Step06.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAQwDgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T01:31:39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Step05-2.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Step05-2.cs",
+              "RelativeDocumentMoniker": "Step05-2.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Step05-2.cs",
+              "RelativeToolTip": "Step05-2.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAQwHsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T01:22:05.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Step05-1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Step05-1.cs",
+              "RelativeDocumentMoniker": "Step05-1.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Step05-1.cs",
+              "RelativeToolTip": "Step05-1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T01:14:08.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Step05.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Step05.cs",
+              "RelativeDocumentMoniker": "Step05.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Step05.cs",
+              "RelativeToolTip": "Step05.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T01:03:21.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Step04.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Step04.cs",
+              "RelativeDocumentMoniker": "Step04.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Step04.cs",
+              "RelativeToolTip": "Step04.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T00:43:10.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Step03.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Step03.cs",
+              "RelativeDocumentMoniker": "Step03.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Step03.cs",
+              "RelativeToolTip": "Step03.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBsAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T00:32:15.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Step02.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Step02.cs",
+              "RelativeDocumentMoniker": "Step02.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Step02.cs",
+              "RelativeToolTip": "Step02.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T00:24:26.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Day1",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Day1.csproj",
+              "RelativeDocumentMoniker": "Day1.csproj",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Day1.csproj",
+              "RelativeToolTip": "Day1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T00:17:07.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Step01.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Step01.cs",
+              "RelativeDocumentMoniker": "Step01.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\Day1\\Step01.cs",
+              "RelativeToolTip": "Step01.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T00:11:32.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
