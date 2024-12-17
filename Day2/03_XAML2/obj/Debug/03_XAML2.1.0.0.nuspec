@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>03_XAML2</id>
+    <version>1.0.0</version>
+    <authors>03_XAML2</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="f266371815b7d5e1accabbd81051d9e775b2b41d" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\user\OneDrive\바탕 화면\202412-WPF-Programming\Day2\03_XAML2\bin\Debug\net8.0-windows\03_XAML2.runtimeconfig.json" target="lib\net8.0-windows7.0\03_XAML2.runtimeconfig.json" />
+    <file src="C:\Users\user\OneDrive\바탕 화면\202412-WPF-Programming\Day2\03_XAML2\bin\Debug\net8.0-windows\03_XAML2.dll" target="lib\net8.0-windows7.0\03_XAML2.dll" />
+  </files>
+</package>
