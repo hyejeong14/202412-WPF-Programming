@@ -1,0 +1,9 @@
+﻿<Application x:Class="Ex3DataBinding3.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Ex3DataBinding3"
+             StartupUri="Ex3DataBinding3.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
