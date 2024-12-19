@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\user\OneDrive\바탕 화면\202412-WPF-Programming\DAY4\11_Command\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Ex1Command1.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Ex2Command2.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Ex3Command3.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Ex4Command4.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Ex5Command5.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Ex6RoutedCommand1.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Ex1Command1.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Ex2Command2.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Ex3Command3.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Ex4Command4.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Ex5Command5.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Ex6RoutedCommand1.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

@@ -3,150 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\ex7example.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\ex7example.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\ex7example.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\ex7example.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\ex6databinding6.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\ex6databinding6.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\ex6databinding6.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\ex6databinding6.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\08_control\\ex5tree.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|solutionrelative:08_control\\ex5tree.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\08_control\\ex5tree.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|solutionrelative:08_control\\ex5tree.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\09_control2\\ex1visualtree.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|solutionrelative:09_control2\\ex1visualtree.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\09_control2\\ex2controltemplate.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|solutionrelative:09_control2\\ex2controltemplate.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\09_control2\\ex3example.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|solutionrelative:09_control2\\ex3example.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\09_control2\\visualtree.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|solutionrelative:09_control2\\visualtree.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\ex1elementbinding.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\ex1elementbinding.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\ex2databinding1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\ex2databinding1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\ex2databinding2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\ex2databinding2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\ex3databinding3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\ex3databinding3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\ex4databinding4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\ex4databinding4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\ex5databinding5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\ex5databinding5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\ex2databinding2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\ex2databinding2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\10_binding.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\10_binding.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\ex5databinding5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\ex5databinding5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\ex1elementbinding.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\ex1elementbinding.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\ex3databinding3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\ex3databinding3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\ex4databinding4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\ex4databinding4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\ex2databinding1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\ex2databinding1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\09_control2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|solutionrelative:09_control2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\09_control2\\09_control2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|solutionrelative:09_control2\\09_control2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\08_control\\08_control.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|solutionrelative:08_control\\08_control.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\09_control2\\ex3example.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|solutionrelative:09_control2\\ex3example.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\09_control2\\visualtree.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|solutionrelative:09_control2\\visualtree.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\09_control2\\ex2controltemplate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|solutionrelative:09_control2\\ex2controltemplate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\09_control2\\ex1visualtree.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|solutionrelative:09_control2\\ex1visualtree.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\08_control\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|solutionrelative:08_control\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\08_control\\ex6tree2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|solutionrelative:08_control\\ex6tree2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\08_control\\ex6tree2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|solutionrelative:08_control\\ex6tree2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\08_control\\ex4event.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|solutionrelative:08_control\\ex4event.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\08_control\\ex4event.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|solutionrelative:08_control\\ex4event.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -159,12 +15,164 @@
       "RelativeMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|solutionrelative:08_control\\ex3listbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\08_control\\ex5tree.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|solutionrelative:08_control\\ex5tree.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\08_control\\ex6tree2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|solutionrelative:08_control\\ex6tree2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\09_control2\\ex1visualtree.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|solutionrelative:09_control2\\ex1visualtree.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\ex1elementbinding.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\ex1elementbinding.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\ex2databinding1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\ex2databinding1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\ex2databinding2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\ex2databinding2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\ex2databinding1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\ex2databinding1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\ex3databinding3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\ex3databinding3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\ex7example.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\ex7example.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\ex6databinding6.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\ex6databinding6.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\ex5databinding5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\ex5databinding5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\ex4databinding4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\ex4databinding4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\08_control\\ex4event.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|solutionrelative:08_control\\ex4event.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4484E70F-8870-4055-98DF-DF7FD10FC222}|07_Style\\07_Style.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\07_style\\ex1style1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4484E70F-8870-4055-98DF-DF7FD10FC222}|07_Style\\07_Style.csproj|solutionrelative:07_style\\ex1style1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\ex1elementbinding.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\ex1elementbinding.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\ex7example.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\ex7example.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\ex5databinding5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\ex5databinding5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\ex3databinding3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\ex3databinding3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\09_control2\\ex3example.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|solutionrelative:09_control2\\ex3example.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\10_binding.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\10_binding.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\08_control\\ex2control1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|solutionrelative:08_control\\ex2control1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\08_control\\ex1contents.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|solutionrelative:08_control\\ex1contents.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4484E70F-8870-4055-98DF-DF7FD10FC222}|07_Style\\07_Style.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\07_style\\ex2style2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4484E70F-8870-4055-98DF-DF7FD10FC222}|07_Style\\07_Style.csproj|solutionrelative:07_style\\ex2style2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\09_control2\\ex2controltemplate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|solutionrelative:09_control2\\ex2controltemplate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\09_control2\\ex3example.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|solutionrelative:09_control2\\ex3example.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\ex2databinding2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\ex2databinding2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\ex6databinding6.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\ex6databinding6.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\09_control2\\visualtree.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|solutionrelative:09_control2\\visualtree.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\08_control\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|solutionrelative:08_control\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\09_control2\\ex2controltemplate.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|solutionrelative:09_control2\\ex2controltemplate.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\08_control\\ex5tree.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|solutionrelative:08_control\\ex5tree.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\09_control2\\visualtree.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|solutionrelative:09_control2\\visualtree.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\09_control2\\ex1visualtree.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|solutionrelative:09_control2\\ex1visualtree.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\10_binding\\ex4databinding4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88C8647-85C0-45A3-B937-DF53468D4499}|10_BINDING\\10_BINDING.csproj|solutionrelative:10_binding\\ex4databinding4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\09_control2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|solutionrelative:09_control2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\08_control\\08_control.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|solutionrelative:08_control\\08_control.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\09_control2\\09_control2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{47AE6933-5DBD-4A44-9F99-65E4121B632C}|09_Control2\\09_Control2.csproj|solutionrelative:09_control2\\09_control2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\08_control\\ex6tree2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|solutionrelative:08_control\\ex6tree2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\08_control\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -175,20 +183,8 @@
       "RelativeMoniker": "D:0:0:{EAA6F254-923F-47BA-B83C-D9F3B991F773}|08_Control\\08_Control.csproj|solutionrelative:08_control\\ex1contents.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4484E70F-8870-4055-98DF-DF7FD10FC222}|07_Style\\07_Style.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\07_style\\ex2style2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4484E70F-8870-4055-98DF-DF7FD10FC222}|07_Style\\07_Style.csproj|solutionrelative:07_style\\ex2style2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4484E70F-8870-4055-98DF-DF7FD10FC222}|07_Style\\07_Style.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\07_style\\ex2style2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4484E70F-8870-4055-98DF-DF7FD10FC222}|07_Style\\07_Style.csproj|solutionrelative:07_style\\ex2style2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4484E70F-8870-4055-98DF-DF7FD10FC222}|07_Style\\07_Style.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\07_style\\ex1style1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4484E70F-8870-4055-98DF-DF7FD10FC222}|07_Style\\07_Style.csproj|solutionrelative:07_style\\ex1style1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4484E70F-8870-4055-98DF-DF7FD10FC222}|07_Style\\07_Style.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\07_style\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4484E70F-8870-4055-98DF-DF7FD10FC222}|07_Style\\07_Style.csproj|solutionrelative:07_style\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4484E70F-8870-4055-98DF-DF7FD10FC222}|07_Style\\07_Style.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\07_style\\07_style.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -197,6 +193,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{4484E70F-8870-4055-98DF-DF7FD10FC222}|07_Style\\07_Style.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\07_style\\ex1style1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4484E70F-8870-4055-98DF-DF7FD10FC222}|07_Style\\07_Style.csproj|solutionrelative:07_style\\ex1style1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4484E70F-8870-4055-98DF-DF7FD10FC222}|07_Style\\07_Style.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-wpf-programming\\day3\\07_style\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4484E70F-8870-4055-98DF-DF7FD10FC222}|07_Style\\07_Style.csproj|solutionrelative:07_style\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -206,87 +206,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Ex7Example.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex7Example.xaml.cs",
-              "RelativeDocumentMoniker": "10_BINDING\\Ex7Example.xaml.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex7Example.xaml.cs",
-              "RelativeToolTip": "10_BINDING\\Ex7Example.xaml.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAAG4AAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T07:22:49.395Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Ex7Example.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex7Example.xaml",
-              "RelativeDocumentMoniker": "10_BINDING\\Ex7Example.xaml",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex7Example.xaml",
-              "RelativeToolTip": "10_BINDING\\Ex7Example.xaml",
+              "DocumentIndex": 8,
+              "Title": "Ex2DataBinding2.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex2DataBinding2.xaml",
+              "RelativeDocumentMoniker": "10_BINDING\\Ex2DataBinding2.xaml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex2DataBinding2.xaml",
+              "RelativeToolTip": "10_BINDING\\Ex2DataBinding2.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-18T07:19:28.281Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Ex6DataBinding6.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex6DataBinding6.xaml.cs",
-              "RelativeDocumentMoniker": "10_BINDING\\Ex6DataBinding6.xaml.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex6DataBinding6.xaml.cs",
-              "RelativeToolTip": "10_BINDING\\Ex6DataBinding6.xaml.cs",
-              "ViewState": "AQIAAEcAAAAAAAAAAAAgwGgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T06:56:46.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Ex2ControlTemplate.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\09_Control2\\Ex2ControlTemplate.xaml.cs",
-              "RelativeDocumentMoniker": "09_Control2\\Ex2ControlTemplate.xaml.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\09_Control2\\Ex2ControlTemplate.xaml.cs",
-              "RelativeToolTip": "09_Control2\\Ex2ControlTemplate.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T03:45:49.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Ex6DataBinding6.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex6DataBinding6.xaml",
-              "RelativeDocumentMoniker": "10_BINDING\\Ex6DataBinding6.xaml",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex6DataBinding6.xaml",
-              "RelativeToolTip": "10_BINDING\\Ex6DataBinding6.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-18T06:51:38.76Z",
+              "WhenOpened": "2024-12-18T05:36:43.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Ex5Tree.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex5Tree.xaml.cs",
-              "RelativeDocumentMoniker": "08_Control\\Ex5Tree.xaml.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex5Tree.xaml.cs",
-              "RelativeToolTip": "08_Control\\Ex5Tree.xaml.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAADwvxkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T01:31:08.747Z",
+              "Title": "Ex2DataBinding1.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex2DataBinding1.xaml",
+              "RelativeDocumentMoniker": "10_BINDING\\Ex2DataBinding1.xaml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex2DataBinding1.xaml",
+              "RelativeToolTip": "10_BINDING\\Ex2DataBinding1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T04:48:13.786Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Ex1ElementBinding.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex1ElementBinding.xaml",
+              "RelativeDocumentMoniker": "10_BINDING\\Ex1ElementBinding.xaml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex1ElementBinding.xaml",
+              "RelativeToolTip": "10_BINDING\\Ex1ElementBinding.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T04:25:28.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ex1VisualTree.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\09_Control2\\Ex1VisualTree.xaml",
+              "RelativeDocumentMoniker": "09_Control2\\Ex1VisualTree.xaml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\09_Control2\\Ex1VisualTree.xaml",
+              "RelativeToolTip": "09_Control2\\Ex1VisualTree.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T03:14:05.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ex6Tree2.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex6Tree2.xaml",
+              "RelativeDocumentMoniker": "08_Control\\Ex6Tree2.xaml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex6Tree2.xaml",
+              "RelativeToolTip": "08_Control\\Ex6Tree2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T02:01:01.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Ex5Tree.xaml",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex5Tree.xaml",
               "RelativeDocumentMoniker": "08_Control\\Ex5Tree.xaml",
@@ -298,71 +282,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\App.xaml",
-              "RelativeDocumentMoniker": "10_BINDING\\App.xaml",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\App.xaml",
-              "RelativeToolTip": "10_BINDING\\App.xaml",
+              "DocumentIndex": 2,
+              "Title": "Ex3ListBox.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex3ListBox.xaml",
+              "RelativeDocumentMoniker": "08_Control\\Ex3ListBox.xaml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex3ListBox.xaml",
+              "RelativeToolTip": "08_Control\\Ex3ListBox.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-18T04:25:44.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Ex3Example.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\09_Control2\\Ex3Example.xaml.cs",
-              "RelativeDocumentMoniker": "09_Control2\\Ex3Example.xaml.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\09_Control2\\Ex3Example.xaml.cs",
-              "RelativeToolTip": "09_Control2\\Ex3Example.xaml.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAADwvyUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T03:57:16.821Z",
+              "WhenOpened": "2024-12-18T00:52:44.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Person.cs",
-              "RelativeDocumentMoniker": "10_BINDING\\Person.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Person.cs",
-              "RelativeToolTip": "10_BINDING\\Person.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAlwEEAAAAKAAAA",
+              "Title": "Ex3ListBox.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex3ListBox.xaml.cs",
+              "RelativeDocumentMoniker": "08_Control\\Ex3ListBox.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex3ListBox.xaml.cs",
+              "RelativeToolTip": "08_Control\\Ex3ListBox.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxgAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T04:51:14.218Z",
+              "WhenOpened": "2024-12-18T00:52:49.456Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "VisualTree.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\09_Control2\\VisualTree.xaml.cs",
-              "RelativeDocumentMoniker": "09_Control2\\VisualTree.xaml.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\09_Control2\\VisualTree.xaml.cs",
-              "RelativeToolTip": "09_Control2\\VisualTree.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T03:31:00.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Ex1ElementBinding.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex1ElementBinding.xaml.cs",
-              "RelativeDocumentMoniker": "10_BINDING\\Ex1ElementBinding.xaml.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex1ElementBinding.xaml.cs",
-              "RelativeToolTip": "10_BINDING\\Ex1ElementBinding.xaml.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAUwDgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T04:29:14.326Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 9,
               "Title": "Ex2DataBinding1.xaml.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex2DataBinding1.xaml.cs",
               "RelativeDocumentMoniker": "10_BINDING\\Ex2DataBinding1.xaml.cs",
@@ -375,59 +320,168 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Ex2DataBinding2.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex2DataBinding2.xaml.cs",
-              "RelativeDocumentMoniker": "10_BINDING\\Ex2DataBinding2.xaml.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex2DataBinding2.xaml.cs",
-              "RelativeToolTip": "10_BINDING\\Ex2DataBinding2.xaml.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAgwCcAAABEAAAA",
+              "DocumentIndex": 0,
+              "Title": "Ex4Event.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex4Event.xaml.cs",
+              "RelativeDocumentMoniker": "08_Control\\Ex4Event.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex4Event.xaml.cs",
+              "RelativeToolTip": "08_Control\\Ex4Event.xaml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAUwDAAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T05:38:30.723Z",
+              "WhenOpened": "2024-12-18T01:03:48.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ex3DataBinding3.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex3DataBinding3.xaml",
+              "RelativeDocumentMoniker": "10_BINDING\\Ex3DataBinding3.xaml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex3DataBinding3.xaml",
+              "RelativeToolTip": "10_BINDING\\Ex3DataBinding3.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T06:33:25.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ex7Example.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex7Example.xaml",
+              "RelativeDocumentMoniker": "10_BINDING\\Ex7Example.xaml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex7Example.xaml",
+              "RelativeToolTip": "10_BINDING\\Ex7Example.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T07:19:28.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ex6DataBinding6.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex6DataBinding6.xaml",
+              "RelativeDocumentMoniker": "10_BINDING\\Ex6DataBinding6.xaml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex6DataBinding6.xaml",
+              "RelativeToolTip": "10_BINDING\\Ex6DataBinding6.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T06:51:38.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ex5DataBinding5.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex5DataBinding5.xaml",
+              "RelativeDocumentMoniker": "10_BINDING\\Ex5DataBinding5.xaml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex5DataBinding5.xaml",
+              "RelativeToolTip": "10_BINDING\\Ex5DataBinding5.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T06:37:53.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ex4DataBinding4.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex4DataBinding4.xaml",
+              "RelativeDocumentMoniker": "10_BINDING\\Ex4DataBinding4.xaml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex4DataBinding4.xaml",
+              "RelativeToolTip": "10_BINDING\\Ex4DataBinding4.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T06:34:17.488Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "Ex4Event.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex4Event.xaml",
+              "RelativeDocumentMoniker": "08_Control\\Ex4Event.xaml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex4Event.xaml",
+              "RelativeToolTip": "08_Control\\Ex4Event.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T01:03:37.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EX1STYLE1.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\07_Style\\EX1STYLE1.xaml",
+              "RelativeDocumentMoniker": "07_Style\\EX1STYLE1.xaml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\07_Style\\EX1STYLE1.xaml",
+              "RelativeToolTip": "07_Style\\EX1STYLE1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-17T23:35:54.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Ex1ElementBinding.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex1ElementBinding.xaml.cs",
+              "RelativeDocumentMoniker": "10_BINDING\\Ex1ElementBinding.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex1ElementBinding.xaml.cs",
+              "RelativeToolTip": "10_BINDING\\Ex1ElementBinding.xaml.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAUwDcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T04:29:14.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Ex7Example.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex7Example.xaml.cs",
+              "RelativeDocumentMoniker": "10_BINDING\\Ex7Example.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex7Example.xaml.cs",
+              "RelativeToolTip": "10_BINDING\\Ex7Example.xaml.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:22:49.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "Ex3DataBinding3.xaml.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex3DataBinding3.xaml.cs",
               "RelativeDocumentMoniker": "10_BINDING\\Ex3DataBinding3.xaml.cs",
               "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex3DataBinding3.xaml.cs",
               "RelativeToolTip": "10_BINDING\\Ex3DataBinding3.xaml.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAADwvxkAAAAFAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T06:45:35.356Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Ex1VisualTree.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\09_Control2\\Ex1VisualTree.xaml.cs",
-              "RelativeDocumentMoniker": "09_Control2\\Ex1VisualTree.xaml.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\09_Control2\\Ex1VisualTree.xaml.cs",
-              "RelativeToolTip": "09_Control2\\Ex1VisualTree.xaml.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAD4AAAALAAAA",
+              "DocumentIndex": 21,
+              "Title": "Ex3Example.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\09_Control2\\Ex3Example.xaml.cs",
+              "RelativeDocumentMoniker": "09_Control2\\Ex3Example.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\09_Control2\\Ex3Example.xaml.cs",
+              "RelativeToolTip": "09_Control2\\Ex3Example.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvyUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T03:15:28.532Z",
+              "WhenOpened": "2024-12-18T03:57:16.821Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Ex4DataBinding4.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex4DataBinding4.xaml.cs",
-              "RelativeDocumentMoniker": "10_BINDING\\Ex4DataBinding4.xaml.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex4DataBinding4.xaml.cs",
-              "RelativeToolTip": "10_BINDING\\Ex4DataBinding4.xaml.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAADwvx8AAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T06:34:44.068Z",
+              "DocumentIndex": 22,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\App.xaml",
+              "RelativeDocumentMoniker": "10_BINDING\\App.xaml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\App.xaml",
+              "RelativeToolTip": "10_BINDING\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T04:25:44.233Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Ex5DataBinding5.xaml.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex5DataBinding5.xaml.cs",
               "RelativeDocumentMoniker": "10_BINDING\\Ex5DataBinding5.xaml.cs",
@@ -440,68 +494,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Ex2DataBinding2.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex2DataBinding2.xaml",
-              "RelativeDocumentMoniker": "10_BINDING\\Ex2DataBinding2.xaml",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex2DataBinding2.xaml",
-              "RelativeToolTip": "10_BINDING\\Ex2DataBinding2.xaml",
+              "DocumentIndex": 24,
+              "Title": "Ex2Control1.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex2Control1.xaml",
+              "RelativeDocumentMoniker": "08_Control\\Ex2Control1.xaml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex2Control1.xaml",
+              "RelativeToolTip": "08_Control\\Ex2Control1.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-18T05:36:43.861Z",
+              "WhenOpened": "2024-12-18T00:44:17.813Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Ex5DataBinding5.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex5DataBinding5.xaml",
-              "RelativeDocumentMoniker": "10_BINDING\\Ex5DataBinding5.xaml",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex5DataBinding5.xaml",
-              "RelativeToolTip": "10_BINDING\\Ex5DataBinding5.xaml",
+              "DocumentIndex": 25,
+              "Title": "Ex1Contents.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex1Contents.xaml",
+              "RelativeDocumentMoniker": "08_Control\\Ex1Contents.xaml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex1Contents.xaml",
+              "RelativeToolTip": "08_Control\\Ex1Contents.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-18T06:37:53.361Z",
+              "WhenOpened": "2024-12-18T00:29:08.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Ex3DataBinding3.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex3DataBinding3.xaml",
-              "RelativeDocumentMoniker": "10_BINDING\\Ex3DataBinding3.xaml",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex3DataBinding3.xaml",
-              "RelativeToolTip": "10_BINDING\\Ex3DataBinding3.xaml",
+              "DocumentIndex": 26,
+              "Title": "EX2STYLE2.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\07_Style\\EX2STYLE2.xaml",
+              "RelativeDocumentMoniker": "07_Style\\EX2STYLE2.xaml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\07_Style\\EX2STYLE2.xaml",
+              "RelativeToolTip": "07_Style\\EX2STYLE2.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-18T06:33:25.986Z",
+              "WhenOpened": "2024-12-17T23:52:34.244Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "Ex4DataBinding4.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex4DataBinding4.xaml",
-              "RelativeDocumentMoniker": "10_BINDING\\Ex4DataBinding4.xaml",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex4DataBinding4.xaml",
-              "RelativeToolTip": "10_BINDING\\Ex4DataBinding4.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-18T06:34:17.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Ex1ElementBinding.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex1ElementBinding.xaml",
-              "RelativeDocumentMoniker": "10_BINDING\\Ex1ElementBinding.xaml",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex1ElementBinding.xaml",
-              "RelativeToolTip": "10_BINDING\\Ex1ElementBinding.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-18T04:25:28.651Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "10_BINDING",
+              "Title": "10_BINDING.csproj",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\10_BINDING.csproj",
               "RelativeDocumentMoniker": "10_BINDING\\10_BINDING.csproj",
               "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\10_BINDING.csproj",
@@ -513,14 +543,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Ex2DataBinding1.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex2DataBinding1.xaml",
-              "RelativeDocumentMoniker": "10_BINDING\\Ex2DataBinding1.xaml",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex2DataBinding1.xaml",
-              "RelativeToolTip": "10_BINDING\\Ex2DataBinding1.xaml",
+              "DocumentIndex": 27,
+              "Title": "Ex2ControlTemplate.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\09_Control2\\Ex2ControlTemplate.xaml",
+              "RelativeDocumentMoniker": "09_Control2\\Ex2ControlTemplate.xaml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\09_Control2\\Ex2ControlTemplate.xaml",
+              "RelativeToolTip": "09_Control2\\Ex2ControlTemplate.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-18T04:48:13.786Z",
+              "WhenOpened": "2024-12-18T03:45:04.192Z",
               "EditorCaption": ""
             },
             {
@@ -537,19 +567,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Ex2ControlTemplate.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\09_Control2\\Ex2ControlTemplate.xaml",
-              "RelativeDocumentMoniker": "09_Control2\\Ex2ControlTemplate.xaml",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\09_Control2\\Ex2ControlTemplate.xaml",
-              "RelativeToolTip": "09_Control2\\Ex2ControlTemplate.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-18T03:45:04.192Z",
+              "DocumentIndex": 29,
+              "Title": "Ex2DataBinding2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex2DataBinding2.xaml.cs",
+              "RelativeDocumentMoniker": "10_BINDING\\Ex2DataBinding2.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex2DataBinding2.xaml.cs",
+              "RelativeToolTip": "10_BINDING\\Ex2DataBinding2.xaml.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAgwCcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:38:30.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
+              "Title": "Ex6DataBinding6.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex6DataBinding6.xaml.cs",
+              "RelativeDocumentMoniker": "10_BINDING\\Ex6DataBinding6.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex6DataBinding6.xaml.cs",
+              "RelativeToolTip": "10_BINDING\\Ex6DataBinding6.xaml.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAgwGgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:56:46.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Person.cs",
+              "RelativeDocumentMoniker": "10_BINDING\\Person.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Person.cs",
+              "RelativeToolTip": "10_BINDING\\Person.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAlwEEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T04:51:14.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "VisualTree.xaml",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\09_Control2\\VisualTree.xaml",
               "RelativeDocumentMoniker": "09_Control2\\VisualTree.xaml",
@@ -561,132 +618,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\09_Control2\\App.xaml",
-              "RelativeDocumentMoniker": "09_Control2\\App.xaml",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\09_Control2\\App.xaml",
-              "RelativeToolTip": "09_Control2\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-18T03:14:07.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "08_Control",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\08_Control.csproj",
-              "RelativeDocumentMoniker": "08_Control\\08_Control.csproj",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\08_Control.csproj",
-              "RelativeToolTip": "08_Control\\08_Control.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvxAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-18T00:36:49.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "09_Control2",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\09_Control2\\09_Control2.csproj",
-              "RelativeDocumentMoniker": "09_Control2\\09_Control2.csproj",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\09_Control2\\09_Control2.csproj",
-              "RelativeToolTip": "09_Control2\\09_Control2.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwMAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-18T03:18:51.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Ex1VisualTree.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\09_Control2\\Ex1VisualTree.xaml",
-              "RelativeDocumentMoniker": "09_Control2\\Ex1VisualTree.xaml",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\09_Control2\\Ex1VisualTree.xaml",
-              "RelativeToolTip": "09_Control2\\Ex1VisualTree.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-18T03:14:05.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 33,
-              "Title": "Ex6Tree2.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex6Tree2.xaml.cs",
-              "RelativeDocumentMoniker": "08_Control\\Ex6Tree2.xaml.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex6Tree2.xaml.cs",
-              "RelativeToolTip": "08_Control\\Ex6Tree2.xaml.cs",
-              "ViewState": "AQIAAEEAAAAAAAAAAAAUwE4AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T02:01:37.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Ex6Tree2.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex6Tree2.xaml",
-              "RelativeDocumentMoniker": "08_Control\\Ex6Tree2.xaml",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex6Tree2.xaml",
-              "RelativeToolTip": "08_Control\\Ex6Tree2.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-18T02:01:01.93Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Ex4Event.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex4Event.xaml.cs",
-              "RelativeDocumentMoniker": "08_Control\\Ex4Event.xaml.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex4Event.xaml.cs",
-              "RelativeToolTip": "08_Control\\Ex4Event.xaml.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAUwDIAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T01:03:48.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Ex4Event.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex4Event.xaml",
-              "RelativeDocumentMoniker": "08_Control\\Ex4Event.xaml",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex4Event.xaml",
-              "RelativeToolTip": "08_Control\\Ex4Event.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-18T01:03:37.922Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Ex3ListBox.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex3ListBox.xaml.cs",
-              "RelativeDocumentMoniker": "08_Control\\Ex3ListBox.xaml.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex3ListBox.xaml.cs",
-              "RelativeToolTip": "08_Control\\Ex3ListBox.xaml.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAADwvxgAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T00:52:49.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Ex3ListBox.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex3ListBox.xaml",
-              "RelativeDocumentMoniker": "08_Control\\Ex3ListBox.xaml",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex3ListBox.xaml",
-              "RelativeToolTip": "08_Control\\Ex3ListBox.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-18T00:52:44.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\App.xaml",
               "RelativeDocumentMoniker": "08_Control\\App.xaml",
@@ -698,19 +630,117 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Ex5Tree.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex5Tree.xaml.cs",
+              "RelativeDocumentMoniker": "08_Control\\Ex5Tree.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex5Tree.xaml.cs",
+              "RelativeToolTip": "08_Control\\Ex5Tree.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T01:31:08.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Ex2ControlTemplate.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\09_Control2\\Ex2ControlTemplate.xaml.cs",
+              "RelativeDocumentMoniker": "09_Control2\\Ex2ControlTemplate.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\09_Control2\\Ex2ControlTemplate.xaml.cs",
+              "RelativeToolTip": "09_Control2\\Ex2ControlTemplate.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T03:45:49.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "VisualTree.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\09_Control2\\VisualTree.xaml.cs",
+              "RelativeDocumentMoniker": "09_Control2\\VisualTree.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\09_Control2\\VisualTree.xaml.cs",
+              "RelativeToolTip": "09_Control2\\VisualTree.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T03:31:00.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Ex1VisualTree.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\09_Control2\\Ex1VisualTree.xaml.cs",
+              "RelativeDocumentMoniker": "09_Control2\\Ex1VisualTree.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\09_Control2\\Ex1VisualTree.xaml.cs",
+              "RelativeToolTip": "09_Control2\\Ex1VisualTree.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAD4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T03:15:28.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Ex4DataBinding4.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex4DataBinding4.xaml.cs",
+              "RelativeDocumentMoniker": "10_BINDING\\Ex4DataBinding4.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\10_BINDING\\Ex4DataBinding4.xaml.cs",
+              "RelativeToolTip": "10_BINDING\\Ex4DataBinding4.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvx8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:34:44.068Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 39,
-              "Title": "Ex2Control1.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex2Control1.xaml",
-              "RelativeDocumentMoniker": "08_Control\\Ex2Control1.xaml",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex2Control1.xaml",
-              "RelativeToolTip": "08_Control\\Ex2Control1.xaml",
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\09_Control2\\App.xaml",
+              "RelativeDocumentMoniker": "09_Control2\\App.xaml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\09_Control2\\App.xaml",
+              "RelativeToolTip": "09_Control2\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-18T00:44:17.813Z",
+              "WhenOpened": "2024-12-18T03:14:07.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "08_Control.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\08_Control.csproj",
+              "RelativeDocumentMoniker": "08_Control\\08_Control.csproj",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\08_Control.csproj",
+              "RelativeToolTip": "08_Control\\08_Control.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T00:36:49.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 41,
+              "Title": "09_Control2.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\09_Control2\\09_Control2.csproj",
+              "RelativeDocumentMoniker": "09_Control2\\09_Control2.csproj",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\09_Control2\\09_Control2.csproj",
+              "RelativeToolTip": "09_Control2\\09_Control2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T03:18:51.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Ex6Tree2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex6Tree2.xaml.cs",
+              "RelativeDocumentMoniker": "08_Control\\Ex6Tree2.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex6Tree2.xaml.cs",
+              "RelativeToolTip": "08_Control\\Ex6Tree2.xaml.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAUwE4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T02:01:37.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "08_Control\\AssemblyInfo.cs",
@@ -718,12 +748,11 @@
               "RelativeToolTip": "08_Control\\AssemblyInfo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T00:39:56.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T00:39:56.907Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "Ex1Contents.xaml.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex1Contents.xaml.cs",
               "RelativeDocumentMoniker": "08_Control\\Ex1Contents.xaml.cs",
@@ -731,24 +760,11 @@
               "RelativeToolTip": "08_Control\\Ex1Contents.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T00:37:10.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T00:37:10.354Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Ex1Contents.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex1Contents.xaml",
-              "RelativeDocumentMoniker": "08_Control\\Ex1Contents.xaml",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\08_Control\\Ex1Contents.xaml",
-              "RelativeToolTip": "08_Control\\Ex1Contents.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-18T00:29:08.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "EX2STYLE2.xaml.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\07_Style\\EX2STYLE2.xaml.cs",
               "RelativeDocumentMoniker": "07_Style\\EX2STYLE2.xaml.cs",
@@ -756,25 +772,12 @@
               "RelativeToolTip": "07_Style\\EX2STYLE2.xaml.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAlwCYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T23:57:22.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T23:57:22.839Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "EX2STYLE2.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\07_Style\\EX2STYLE2.xaml",
-              "RelativeDocumentMoniker": "07_Style\\EX2STYLE2.xaml",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\07_Style\\EX2STYLE2.xaml",
-              "RelativeToolTip": "07_Style\\EX2STYLE2.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-17T23:52:34.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "07_Style",
+              "DocumentIndex": 46,
+              "Title": "07_Style.csproj",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\07_Style\\07_Style.csproj",
               "RelativeDocumentMoniker": "07_Style\\07_Style.csproj",
               "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\07_Style\\07_Style.csproj",
@@ -786,7 +789,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 47,
               "Title": "EX1STYLE1.xaml.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\07_Style\\EX1STYLE1.xaml.cs",
               "RelativeDocumentMoniker": "07_Style\\EX1STYLE1.xaml.cs",
@@ -794,12 +797,11 @@
               "RelativeToolTip": "07_Style\\EX1STYLE1.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T23:36:05.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T23:36:05.788Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\07_Style\\App.xaml",
               "RelativeDocumentMoniker": "07_Style\\App.xaml",
@@ -807,18 +809,6 @@
               "RelativeToolTip": "07_Style\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-17T23:35:55.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "EX1STYLE1.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\07_Style\\EX1STYLE1.xaml",
-              "RelativeDocumentMoniker": "07_Style\\EX1STYLE1.xaml",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\202412-WPF-Programming\\DAY3\\07_Style\\EX1STYLE1.xaml",
-              "RelativeToolTip": "07_Style\\EX1STYLE1.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-17T23:35:54.302Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,14 @@
+﻿<Application x:Class="Project.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Project"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>        
+        <Style x:Key="mystyle">
+            <Setter Property="Control.Foreground" Value="Blue"/>
+            <Setter Property="Control.Background" Value="Yellow"/>
+            <Setter Property="Control.FontSize" Value="25"></Setter>
+            <Setter Property="Control.FontWeight" Value="UltraBold"></Setter>
+        </Style>
+    </Application.Resources>
+</Application>

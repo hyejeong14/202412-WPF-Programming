@@ -1,0 +1,137 @@
+﻿<Window x:Class="Project.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+   <!--command-->
+    <Window.Resources>
+        <RoutedCommand x:Key="cmd1"/>
+        <RoutedCommand x:Key="cmd2"/>
+    </Window.Resources>
+
+
+    <Window.CommandBindings>
+        <CommandBinding Command="{StaticResource cmd1}"
+                    Executed="CommandBinding_Executed"
+                    CanExecute="CommandBinding_CanExecute"/>
+        <CommandBinding Command="{StaticResource cmd2}"
+                        Executed="CommandBinding_Executed_1"
+                        CanExecute="CommandBinding_CanExecute_1"/>
+    </Window.CommandBindings>
+
+    <Grid>
+        <!-- 그리드 나누기-->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="17"/>
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+
+        <!-- Splitter 설정-->
+        <GridSplitter Grid.Row="1"  Grid.Column="1" 
+            HorizontalAlignment="Center" VerticalAlignment="Stretch"
+            Width="5"  />
+
+        <!-- 메뉴 추가-->
+        <Menu Grid.Row="0" Grid.ColumnSpan="3" Height="17">
+            <MenuItem Header="File">
+                <MenuItem Header="Exit" Click="MenuItem_Click"/>
+            </MenuItem>
+            <MenuItem Header="About">
+                <MenuItem Header="제출자" Command="{StaticResource cmd1}"/>
+            </MenuItem>
+        </Menu>
+
+        <!--왼쪽 리스트박스 추가-->
+        <ListBox x:Name="listbox" Grid.Row="1" Grid.Column="0" FontSize="20" SelectionChanged="listbox_SelectionChanged" >
+
+            <!--리스트박스 아이템 추가-->
+            <ListBox.Items>
+                <ListBoxItem Content="김영희"/>
+                <ListBoxItem Content="이철수"/>
+                <ListBoxItem Content="최준수"/>
+            </ListBox.Items>
+        </ListBox>
+
+        <!--오른쪽 화면 채우기-->
+        <StackPanel Grid.Row="1" Grid.Column="2" >
+
+            <!--그룹박스 추가-->
+            <Grid>
+                <GroupBox Header="선택된 사람의 정보" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Height="Auto">
+                    <Grid>
+                        <!-- 그룹박스 내부 그리드 나누기 -->
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+
+                        <!-- 이름&슬라이더 -->
+
+                        <Label FontSize="{Binding ElementName=sd, Path=Value, Mode=TwoWay}"
+                               Content="이름" Grid.Row="0" Grid.Column="0" 
+                               VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        <Slider x:Name="sd" Grid.Row="0" Grid.Column="1" 
+                                Minimum="0" Maximum="40" Value="20" 
+                                VerticalAlignment="Center" />
+
+                        <!-- 주소&수정버튼 -->
+                        <Label FontSize="{Binding ElementName=sd, Path=Value, Mode=TwoWay}"
+                               Content="주소" Grid.Row="1" Grid.Column="0" 
+                               VerticalAlignment="Center" HorizontalAlignment="Center" />
+                        <Button Content="수정" Grid.Row="1" Grid.Column="2" 
+                                Width="100" Height="30" 
+                                VerticalAlignment="Bottom" HorizontalAlignment="Right"/>
+                    </Grid>
+                </GroupBox>
+            </Grid>
+
+            <!--리스트 박스 추가를 위한 텍스트 박스 만들기-->
+            <Grid>
+                <!--그리드 나누기-->
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="100"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <!-- 이름&텍스트박스 -->
+                <TextBlock Text="이름" Grid.Column="0" FontSize="20"
+                           VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                <TextBox Style="{StaticResource mystyle}" Grid.Column="1" x:Name="name" 
+                         Height="40" Margin="5" PreviewTextInput="name_PreviewTextInput"/>
+            </Grid>
+
+            <Grid>
+                <!--그리드 나누기-->
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="100"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <!-- 주소&텍스트박스 -->
+                <TextBlock Text="주소" FontSize="20" Grid.Column="0"
+                           VerticalAlignment="Center"  HorizontalAlignment="Center"/>
+                <TextBox Grid.Column="1" x:Name="address"  Height="40" 
+                         Margin="5" Style="{StaticResource mystyle}" />
+            </Grid>
+
+            <!-- 리스트박스 추가 버튼-->
+            <Button FontSize="20" Content="ListBox에 추가" Height="50" Margin="5" Command="{StaticResource cmd2}"/>
+
+        </StackPanel>
+
+    </Grid>
+
+</Window>

@@ -24,15 +24,15 @@
 
         <Style x:Key="mystyle3">
             <Setter Property="Control.FontSize" Value="48"></Setter>
-            
-            <Style.Triggers>
-            <
+
+            <Style.Triggers/>
+
         </Style>
     </Window.Resources>
 
     <StackPanel>
         <Label Content="label1" Style="{StaticResource mystyle1}"></Label>
-        <Labe2 x:Name="label2" Style="label2" Style="{StaticResource mystyle2}"></Labe2>
+        <Label Content="label2" Style="{StaticResource mystyle2}"/>
         <Label Content="label3" Style="{StaticResource mystyle1}"></Label>
     </StackPanel>
     

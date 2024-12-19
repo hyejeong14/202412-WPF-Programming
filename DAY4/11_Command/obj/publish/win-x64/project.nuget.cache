@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FmOyugVT3CwzLtL9xIc3TudMGxKuSaknCb0FhNMjUeXjPeOQDJ2S5QGPQPlqIEDFVUHzUNIESttLK//eayB4gA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\OneDrive\\바탕 화면\\202412-WPF-Programming\\DAY4\\11_Command\\11_Command.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

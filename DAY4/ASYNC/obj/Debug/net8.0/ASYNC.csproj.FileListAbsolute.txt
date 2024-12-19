@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\바탕 화면\202412-WPF-Programming\DAY4\ASYNC\obj\Debug\net8.0\ASYNC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\바탕 화면\202412-WPF-Programming\DAY4\ASYNC\obj\Debug\net8.0\ASYNC.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\바탕 화면\202412-WPF-Programming\DAY4\ASYNC\obj\Debug\net8.0\ASYNC.AssemblyInfo.cs
+C:\Users\user\OneDrive\바탕 화면\202412-WPF-Programming\DAY4\ASYNC\obj\Debug\net8.0\ASYNC.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\바탕 화면\202412-WPF-Programming\DAY4\ASYNC\obj\Debug\net8.0\ASYNC.sourcelink.json
+C:\Users\user\OneDrive\바탕 화면\202412-WPF-Programming\DAY4\ASYNC\bin\Debug\net8.0\ASYNC.exe
+C:\Users\user\OneDrive\바탕 화면\202412-WPF-Programming\DAY4\ASYNC\bin\Debug\net8.0\ASYNC.deps.json
+C:\Users\user\OneDrive\바탕 화면\202412-WPF-Programming\DAY4\ASYNC\bin\Debug\net8.0\ASYNC.runtimeconfig.json
+C:\Users\user\OneDrive\바탕 화면\202412-WPF-Programming\DAY4\ASYNC\bin\Debug\net8.0\ASYNC.dll
+C:\Users\user\OneDrive\바탕 화면\202412-WPF-Programming\DAY4\ASYNC\bin\Debug\net8.0\ASYNC.pdb
+C:\Users\user\OneDrive\바탕 화면\202412-WPF-Programming\DAY4\ASYNC\obj\Debug\net8.0\ASYNC.dll
+C:\Users\user\OneDrive\바탕 화면\202412-WPF-Programming\DAY4\ASYNC\obj\Debug\net8.0\refint\ASYNC.dll
+C:\Users\user\OneDrive\바탕 화면\202412-WPF-Programming\DAY4\ASYNC\obj\Debug\net8.0\ASYNC.pdb
+C:\Users\user\OneDrive\바탕 화면\202412-WPF-Programming\DAY4\ASYNC\obj\Debug\net8.0\ASYNC.genruntimeconfig.cache
+C:\Users\user\OneDrive\바탕 화면\202412-WPF-Programming\DAY4\ASYNC\obj\Debug\net8.0\ref\ASYNC.dll
